@@ -1,0 +1,14 @@
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\bin\Debug\net6.0\JordansExceptions.exe
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\bin\Debug\net6.0\JordansExceptions.deps.json
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\bin\Debug\net6.0\JordansExceptions.runtimeconfig.json
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\bin\Debug\net6.0\JordansExceptions.dll
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\bin\Debug\net6.0\JordansExceptions.pdb
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\obj\Debug\net6.0\JordansExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\obj\Debug\net6.0\JordansExceptions.AssemblyInfoInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\obj\Debug\net6.0\JordansExceptions.AssemblyInfo.cs
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\obj\Debug\net6.0\JordansExceptions.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\obj\Debug\net6.0\JordansExceptions.dll
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\obj\Debug\net6.0\refint\JordansExceptions.dll
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\obj\Debug\net6.0\JordansExceptions.pdb
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\obj\Debug\net6.0\JordansExceptions.genruntimeconfig.cache
+C:\Users\misha\OneDrive\Рабочий стол\JordansExeptions-main\Jordan's exceptions\obj\Debug\net6.0\ref\JordansExceptions.dll
